@@ -65,10 +65,7 @@ header .navbar a:hover {
     object-fit: cover;
 }
 
-header.name-h2{
-    color: #c7bbaf;
-    text-align: center;
-}
+
 
 header .follow a{
     font-size: 2.5rem;
